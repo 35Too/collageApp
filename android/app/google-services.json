@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784851426122",
+    "project_id": "shule-c3295",
+    "storage_bucket": "shule-c3295.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784851426122:android:d558be1b819113c9a03fb3",
+        "android_client_info": {
+          "package_name": "com.example.shule"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQbwxmHb8NjFJ4kCnPWlH6eDJy4ppZIRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
